@@ -1,0 +1,13 @@
+.vscode
+.gitignore
+.gitattributes
+
+Doku
+node_modules
+Procfile
+# saves = persistance, will be mounted
+saves
+server/NotUsedCode
+
+# ae: local saves testdata
+testdata

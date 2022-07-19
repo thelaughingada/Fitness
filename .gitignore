@@ -1,3 +1,6 @@
 /saves/*.json
 /saves/*.txt
 saves/.dropbox
+
+# ae: local saves testdata
+testdata
